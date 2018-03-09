@@ -1,0 +1,56 @@
+Pseudo code
+
+good programing practices-1
+software reviews & testing-1
+execption handling-1
+
+oracle 
+
+single row & group by-1
+join & sub query-1
+DML-1
+cursor-1
+procedures-1
+database objects-1
+pl sql  basics-1
+execption handling-2
+
+unix 
+
+basic unix commands,tools and utilites-1
+overview of VI editor & command SED-1
+unix file system-1
+Shell Scripting-1
+
+
+M2
+
+ETL basics-1
+DB ware house-2
+data modelling for BI-1
+software testing for BI-1
+
+M3
+
+power center designer-1
+transformations-5
+maplet-1
+workflow & session log-1
+additional-3
+workflow tasks-2
+mapping parameter & variable-2
+
+M4
+
+overview of teradata-2
+primary indexes-2
+utilites(bteq,fast load)-2
+teradata SQL-8
+
+M5
+
+soft engg
+QPA & QMS
+life cycle models
+cofig manage processing
+test parsing
